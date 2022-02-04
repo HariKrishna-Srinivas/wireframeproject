@@ -6,14 +6,13 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
-
+install the pencil project and use it to create the wireframe project.
 ### Step 2:
-Write your design steps here
-
+Use the elements provides by the pencil project software and complete the wireframe project.
 ## OUTPUT:
-include your output screenshots 
-
+![GitHub Logo](/IMAGES/img1.png)
+![GitHub Logo](/IMAGES/img2.png)
+![GitHub Logo](/IMAGES/img3.png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
